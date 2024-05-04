@@ -1,5 +1,7 @@
 package Company.Interfaces;
 
-public interface Messenger {
+
+public interface Messenger 
+{
     void sendMessage(String message);
 }
