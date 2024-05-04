@@ -1,7 +1,9 @@
 package Company.Exceptions;
 
-public class InvalidAgeException extends Exception {
-    public InvalidAgeException(String message) {
+public class InvalidAgeException extends Exception 
+{
+    public InvalidAgeException(String message) 
+    {
         super(message);
     }
 }
